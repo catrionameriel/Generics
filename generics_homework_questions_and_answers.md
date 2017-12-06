@@ -19,7 +19,7 @@ Answer the following questions:
 - When we create an ArrayList, when we specify what type it takes in
 
 3. What is the syntax for declaring a generic class?
-- <E> or <T>
+- < E > or < T >
 
 4. At what point does the generic type get specified?
 - At instantiation after starting the class, we create a placeholder and then in the test we say which type the placeholder is <>
